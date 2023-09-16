@@ -42,7 +42,7 @@ enum BlockType {
                   ///  jump target.
 };
 
-/// \brief Basic information about an input/output architecture
+/// \brief 输入输出体系架构的基本信息 Basic information about an input/output architecture
 class Architecture {
 public:
 
